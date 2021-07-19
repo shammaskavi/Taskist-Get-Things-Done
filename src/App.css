@@ -7,27 +7,23 @@
 }
 
 body {
-  background:#111;
+  background: #111;
 }
 .todo-app {
   display: flex;
   flex-direction: column;
-  /* justify-content: start; */
   width: 520px;
-  /* width: 520px; */
   min-height: fit-content;
   background: #111;
-  /* background: #161a2b; */
   text-align: center;
   margin: auto auto;
   border-radius: 10px;
-  /* padding-bottom: 32px; */
 }
 
 h1 {
   margin: 50px 0;
   color: #fff;
-  font-size: 24px;
+  font-size: 30px;
 }
 
 .complete {
@@ -141,5 +137,10 @@ h1 {
 }
 
 .edit-icon {
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
   color: #fff;
 }

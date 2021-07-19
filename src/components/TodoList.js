@@ -43,7 +43,7 @@ function TodoList() {
 
   return (
     <div>
-      <h1>Get Things Done.</h1>
+      <h1><a href="https://instagram.com/shammaskavi">Get Things Done.</a></h1>
       <TodoForm onSubmit={addTodo} />
       <Todo
         todos={todos}
