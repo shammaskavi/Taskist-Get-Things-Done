@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Taskist",
+  "name": "Taskist is a simple todo list created make checklists and to-do lists a bit more fun and an attempt make it easy to 'Get Things done'.",
   "icons": [
     {
       "src": "favicon.ico",
